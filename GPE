@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-18T02:15:53.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="w_asMFcQccyzkv5WDmn0" version="13.1.1" type="github">
+<mxfile host="www.draw.io" modified="2020-05-18T08:00:43.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dFe--srzkBsRnF-SnWQ4" version="13.1.1" type="github">
   <diagram id="dOTsShoXvw8OKXv0ffOw" name="Page-1">
     <mxGraphModel dx="1137" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,8 +315,26 @@
         <mxCell id="uaS9fWfS0iwuv60yK7Sh-5" value="Apply" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1180" y="320" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uaS9fWfS0iwuv60yK7Sh-6" value="typeA: [p1, p2, ...] + default" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-6" value="typeA: defaultVersion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="370" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-7" value="Fire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-8" value="Delete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="400" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-10" value="typeB: [p0, p1, ...]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="407" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-11" value="typeA: [p0, p2, ...]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="434" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaS9fWfS0iwuv60yK7Sh-12" value="Check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="270" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
