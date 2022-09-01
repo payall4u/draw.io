@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T08:33:21.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QKqlkMQcmjGxmL6dRce4" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T08:36:55.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="IyUM8iCHX5Nl1JaiMBOh" version="20.2.7" type="github">
   <diagram id="Jt1BlH_GoD6G_X76pw7T" name="第 1 页">
     <mxGraphModel dx="2368" dy="1720" grid="1" gridSize="12" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -854,13 +854,11 @@
         <mxCell id="AkTZBNDV78JdSKTMOavk-308" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=source code pro;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="3864" y="1416" width="102" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="AkTZBNDV78JdSKTMOavk-309" value="" style="endArrow=none;html=1;rounded=0;fontFamily=source code pro;fontSize=20;fontColor=#FF0000;strokeColor=#000000;strokeWidth=2;fillColor=#FF3333;endFill=0;startArrow=classic;startFill=1;edgeStyle=elbowEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="AkTZBNDV78JdSKTMOavk-308">
+        <mxCell id="AkTZBNDV78JdSKTMOavk-309" value="" style="endArrow=none;html=1;rounded=0;fontFamily=source code pro;fontSize=20;fontColor=#FF0000;strokeColor=#000000;strokeWidth=2;fillColor=#FF3333;endFill=0;startArrow=none;startFill=1;edgeStyle=elbowEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="AkTZBNDV78JdSKTMOavk-317">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3807" y="1428" as="sourcePoint" />
             <mxPoint x="3840" y="1224" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3840" y="1392" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AkTZBNDV78JdSKTMOavk-312" value="Scope" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=source code pro;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fontStyle=2" vertex="1" parent="1">
@@ -886,6 +884,21 @@
             <mxPoint x="3378" y="1212" as="sourcePoint" />
             <mxPoint x="3377.000000000001" y="1142" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AkTZBNDV78JdSKTMOavk-317" value="Pod + OCI Info" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=source code pro;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="3756" y="1248" width="168" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="AkTZBNDV78JdSKTMOavk-318" value="" style="endArrow=none;html=1;rounded=0;fontFamily=source code pro;fontSize=20;fontColor=#FF0000;strokeColor=#000000;strokeWidth=2;fillColor=#FF3333;endFill=0;startArrow=classic;startFill=1;edgeStyle=elbowEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="AkTZBNDV78JdSKTMOavk-308" target="AkTZBNDV78JdSKTMOavk-317">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3915" y="1416" as="sourcePoint" />
+            <mxPoint x="3840" y="1224" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3840" y="1392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkTZBNDV78JdSKTMOavk-319" value="&amp;nbsp;Use another binary to set namespace and rootfs.&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;(Scope Same)&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontFamily=source code pro;fontSize=20;fontColor=#FF0000;strokeColor=#FF0000;strokeWidth=2;position2=0.65;size=72;position=0.45;direction=west;base=48;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3804" y="1464" width="336" height="204" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
