@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-04T11:58:12.938Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MWyH_chtvOpss5W9AabE" version="20.7.4" type="github">
+<mxfile modified="2023-01-04T11:59:10.196Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vn2UXcU7xam1uLnaj4zM" version="20.7.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1242" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -152,8 +152,8 @@
             <mxPoint x="359.82" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E83LfCt-5mSgFqh6B69Y-627" value="- Trigger + Parse Stdout&lt;br&gt;- CPU / Zombie Stat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;strokeWidth=1;fontStyle=1;fontColor=#FF0000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="365" y="627" width="160" height="40" as="geometry" />
+        <mxCell id="E83LfCt-5mSgFqh6B69Y-627" value="- Trigger + Parse Stdout&lt;br&gt;- CPU / Zombie Stat&lt;br&gt;- Reduce / Merge Event" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;strokeWidth=1;fontStyle=1;fontColor=#FF0000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="365" y="617" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E83LfCt-5mSgFqh6B69Y-630" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;strokeWidth=1;fontStyle=2;textOpacity=60;" vertex="1" parent="1">
           <mxGeometry x="420" y="680" width="50" height="30" as="geometry" />
