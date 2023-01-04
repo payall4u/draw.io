@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-04T10:19:58.327Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aQKcpR9UC64AYpkpw77y" version="20.7.4" type="github">
+<mxfile modified="2023-01-04T10:20:18.804Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VYcDpAKM_Iu0eJXMQmqX" version="20.7.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1242" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="E83LfCt-5mSgFqh6B69Y-588" value="cloud-gw" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E83LfCt-5mSgFqh6B69Y-589" value="node-apiserver" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E83LfCt-5mSgFqh6B69Y-589" value="node-api-server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E83LfCt-5mSgFqh6B69Y-590" value="template" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="E83LfCt-5mSgFqh6B69Y-593" value="config controller" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="374" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E83LfCt-5mSgFqh6B69Y-594" value="node-hub-server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
