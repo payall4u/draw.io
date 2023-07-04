@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:56:03.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fj-dfTD_AZO2gqR_lPTz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T09:01:42.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yjk1wXmZNAuFHJf_RmOA" version="21.5.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1434" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,6 +323,21 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="199" y="565" as="sourcePoint" />
             <mxPoint x="135" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F20nWLVEKDrb4GIzROOL-103" value="GPUConfig" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F20nWLVEKDrb4GIzROOL-104" value="NodePoolConfigs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F20nWLVEKDrb4GIzROOL-105" value="OrphenNodeConfigs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F20nWLVEKDrb4GIzROOL-106" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="960" as="sourcePoint" />
+            <mxPoint x="610" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
