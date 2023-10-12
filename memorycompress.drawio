@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T16:10:13.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="aRjvwYyYbPWguTNigugQ" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T17:38:25.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ff4e8SORI_G-cDZRAosZ" version="21.5.2" type="github">
   <diagram name="第 1 页" id="knf4weSGLRtSJvmpXS4m">
-    <mxGraphModel dx="1242" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BbgsiEQd0rfRnViW2cmx-143" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;size=-150;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="483" y="789.5" width="269" height="133.5" as="geometry" />
+          <mxGeometry x="483" y="789.5" width="252" height="133.5" as="geometry" />
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="620" height="157.5" as="geometry" />
@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="632" width="620" height="157.5" as="geometry" />
+          <mxGeometry x="132" y="632" width="603" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="272" y="682" width="20" height="20" as="geometry" />
@@ -418,7 +418,7 @@
         <mxCell id="BbgsiEQd0rfRnViW2cmx-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" vertex="1" parent="1">
           <mxGeometry x="612" y="742" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BbgsiEQd0rfRnViW2cmx-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" vertex="1" parent="1">
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBDBDB;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="652" y="742" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBDBDB;" vertex="1" parent="1">
@@ -519,7 +519,7 @@
           <mxGeometry x="669.5" y="835" width="24.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="484" y="788" width="267" height="6" as="geometry" />
+          <mxGeometry x="484" y="788" width="249" height="6" as="geometry" />
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-141" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="BbgsiEQd0rfRnViW2cmx-120" target="BbgsiEQd0rfRnViW2cmx-140">
           <mxGeometry relative="1" as="geometry">
@@ -527,7 +527,7 @@
             <mxPoint x="387" y="877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BbgsiEQd0rfRnViW2cmx-142" value="压缩" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbgsiEQd0rfRnViW2cmx-141">
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-142" value="换出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbgsiEQd0rfRnViW2cmx-141">
           <mxGeometry x="-0.1279" y="1" relative="1" as="geometry">
             <mxPoint x="-2" y="6" as="offset" />
           </mxGeometry>
@@ -537,6 +537,30 @@
         </mxCell>
         <mxCell id="BbgsiEQd0rfRnViW2cmx-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A0BD5E;" vertex="1" parent="1">
           <mxGeometry x="546" y="835" width="123.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-152" value="页面换出，内存减少 swapout_page * 4k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="764" y="737" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="BbgsiEQd0rfRnViW2cmx-120" target="BbgsiEQd0rfRnViW2cmx-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="769" as="sourcePoint" />
+            <mxPoint x="397" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-154" value="压缩后写入zram，内存增加&lt;br&gt;compress(swapout_page*4k)&lt;br&gt;压缩后的结果和页面内容强相关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="756" y="830" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-155" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BbgsiEQd0rfRnViW2cmx-140" target="BbgsiEQd0rfRnViW2cmx-154">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="722" y="762" as="sourcePoint" />
+            <mxPoint x="774" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-156" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="937" y="729" width="20" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="BbgsiEQd0rfRnViW2cmx-157" value="总体内存节约了&lt;br&gt;swapout_page*4k*压缩率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="951" y="777.5" width="154" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
