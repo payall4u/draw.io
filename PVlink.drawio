@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T15:17:04.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QO59dXeqpKM9p64pElNz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T15:17:37.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZRtaqm571SmHtkvEIZyc" version="21.5.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2442" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -99,9 +99,6 @@
             <mxPoint x="-157.54216867469881" y="204.30000000000004" as="sourcePoint" />
             <mxPoint x="-158" y="356.30000000000007" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5K_5IWAIzV8KHntNPYIy-132" value="make rootfs/mount volume" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="225.08999999999997" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5K_5IWAIzV8KHntNPYIy-201" value="remote-hook" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="-710" y="800" width="105" height="28" as="geometry" />
