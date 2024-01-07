@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T07:24:23.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qhg4iQoi-PRCQawIALbH" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T07:38:02.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pfvDjML_kv4t1GUY_Lyu" version="22.1.17" type="github">
   <diagram name="第 1 页" id="GV3FD3EHnnEYpjcIKvkD">
     <mxGraphModel dx="1207" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="490" width="990" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="990" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="NJ_7E44Y7URhuoBIOfff-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="970" width="520" height="270" as="geometry" />
         </mxCell>
@@ -122,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NJ_7E44Y7URhuoBIOfff-49" value="Compress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340" y="700" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="660" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NJ_7E44Y7URhuoBIOfff-51" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B20000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,70 +251,94 @@
           <mxGeometry x="500" y="1210" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-2" value="匿名页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bdcfaa;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860" y="550" width="120" height="30" as="geometry" />
+          <mxGeometry x="860" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-3" value="匿名页（冷）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#89947E;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="550" width="90" height="30" as="geometry" />
+          <mxGeometry x="960" y="550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-4" value="文件页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6BACF;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="550" width="140" height="30" as="geometry" />
+          <mxGeometry x="1050" y="550" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="590" width="270" height="10" as="geometry" />
+          <mxGeometry x="860" y="590" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-6" value="文件页（冷）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F8E9E;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="550" width="80" height="30" as="geometry" />
+          <mxGeometry x="1180" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="37UeJkzDdp2hWjDbrCtD-8" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;整机内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-8" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;可用内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-9" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1134" y="590" width="76" height="10" as="geometry" />
+          <mxGeometry x="1104" y="590" width="76" height="10" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-10" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;内存颠簸&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="590" width="70" height="30" as="geometry" />
+          <mxGeometry x="1107" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-11" value="匿名页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bdcfaa;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="550" width="120" height="30" as="geometry" />
+          <mxGeometry x="1450" y="550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D4023;strokeColor=#000000;shadow=1;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="550" width="10" height="30" as="geometry" />
+          <mxGeometry x="1570" y="550" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-13" value="文件页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A6BACF;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="550" width="140" height="30" as="geometry" />
+          <mxGeometry x="1580" y="550" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-14" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="590" width="270" height="10" as="geometry" />
+          <mxGeometry x="1450" y="590" width="270" height="10" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-15" value="文件页（冷）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F8E9E;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="550" width="80" height="30" as="geometry" />
+          <mxGeometry x="1720" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="37UeJkzDdp2hWjDbrCtD-16" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;整机内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="590" width="70" height="30" as="geometry" />
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-16" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;可用内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-19" value="匿名页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bdcfaa;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860" y="710" width="120" height="30" as="geometry" />
+          <mxGeometry x="903" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-20" value="匿名页（冷）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#89947E;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="710" width="200" height="30" as="geometry" />
+          <mxGeometry x="1023" y="320" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-21" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="750" width="270" height="10" as="geometry" />
+          <mxGeometry x="903" y="360" width="270" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="37UeJkzDdp2hWjDbrCtD-22" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;整机内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="750" width="70" height="30" as="geometry" />
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-22" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;可用内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-23" value="匿名页（热）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bdcfaa;strokeColor=#000000;shadow=0;glass=0;fontColor=#000000;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="710" width="120" height="30" as="geometry" />
+          <mxGeometry x="1450" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="37UeJkzDdp2hWjDbrCtD-24" value="匿名页（冷）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D4023;strokeColor=#000000;shadow=1;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="710" width="130" height="30" as="geometry" />
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-24" value="匿名页（压缩）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7D4023;strokeColor=#000000;shadow=1;glass=0;fontColor=#000000;fontStyle=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37UeJkzDdp2hWjDbrCtD-25" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="750" width="270" height="10" as="geometry" />
+          <mxGeometry x="1450" y="360" width="270" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="37UeJkzDdp2hWjDbrCtD-26" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;整机内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="750" width="70" height="30" as="geometry" />
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-26" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;可用内存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B20000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="564.5" as="sourcePoint" />
+            <mxPoint x="1380" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B20000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="334.5" as="sourcePoint" />
+            <mxPoint x="1370" y="334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-31" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;压缩&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1309" y="537" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-33" value="&lt;font color=&quot;#b20000&quot;&gt;&lt;b&gt;压缩&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="307" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-34" value="Case1：通过压缩匿名页减少总内存使用量，避免oom或降低机器配置" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="270" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37UeJkzDdp2hWjDbrCtD-43" value="Case2：通过内存压缩平衡文件页和匿名页比例，避免内存颠簸，提高应用性能" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="490" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
