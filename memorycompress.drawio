@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T11:31:59.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_55tBU594rQA5RSjHu2H" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:40:00.012Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7AcRAbGOrCXRD7yy2fHN" version="23.1.5" type="github">
   <diagram name="第 1 页" id="knf4weSGLRtSJvmpXS4m">
     <mxGraphModel dx="2842" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1264,10 +1264,10 @@
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=0.5;strokeColor=#CC0000;" edge="1" parent="1" source="a9RwkYAfqORRaHtKzfzJ-108" target="a9RwkYAfqORRaHtKzfzJ-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a9RwkYAfqORRaHtKzfzJ-108" value="/proc/status" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-108" value="/proc/meminfo 等&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;52e3588b2d1bf37f377b20acb402bed4&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="4519" width="132" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a9RwkYAfqORRaHtKzfzJ-109" value="/proc/pid" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-109" value="/proc/&amp;lt;pid&amp;gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="4567" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-110" value="&lt;b&gt;主机上&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1437,6 +1437,9 @@
         </mxCell>
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-209" value="kubectl top" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="1265" y="4416" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-213" value="看内存用量排序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="4628.13" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
