@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T06:42:39.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qrmnC5r1KF7cLY9yRMAI" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:08:03.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FhPcBMzajhfcZF1IdsV1" version="23.1.5" type="github">
   <diagram name="第 1 页" id="knf4weSGLRtSJvmpXS4m">
-    <mxGraphModel dx="2842" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2980" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1486,8 +1486,8 @@
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-230" value="1.5 G 压缩后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="885.5" y="4713.38" width="87" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="a9RwkYAfqORRaHtKzfzJ-233" value="需要改成压缩前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1442" y="4802.25" width="102" height="26" as="geometry" />
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-233" value="HPA会不会造成错误扩容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="4902" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-234" value="4G 压缩前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="4866" width="73" height="26" as="geometry" />
@@ -1503,6 +1503,45 @@
         </mxCell>
         <mxCell id="a9RwkYAfqORRaHtKzfzJ-238" value="压缩后、没有加工过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1404" y="4367" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-239" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="5084" width="120" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-240" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="5160" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-241" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="689.75" y="5084" width="120" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-242" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="689.75" y="5160" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-245" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9RwkYAfqORRaHtKzfzJ-243" target="a9RwkYAfqORRaHtKzfzJ-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-246" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9RwkYAfqORRaHtKzfzJ-243" target="a9RwkYAfqORRaHtKzfzJ-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-243" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="690" y="5051" width="120" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-244" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="5125" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-247" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="5084" width="120" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-248" value="压缩前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="718" y="5238" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-249" value="压缩后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="901.5" y="5238" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-250" value="kubectl top/console" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="5212" width="121" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="a9RwkYAfqORRaHtKzfzJ-251" value="workingset memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684.5" y="5294" width="122" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
