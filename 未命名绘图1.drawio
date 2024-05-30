@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T13:04:21.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.10" etag="M12sOVR7JL2WTsyGos78" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T15:02:45.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XkgrY-IMVQRN7nNjjRaV" version="24.4.10" type="github">
   <diagram name="第 1 页" id="bKGpFhz1ftFVU2L4S3-Q">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_IcN6_rNNhpLznFLcOes-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_IcN6_rNNhpLznFLcOes-1" target="_IcN6_rNNhpLznFLcOes-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_IcN6_rNNhpLznFLcOes-1" target="_IcN6_rNNhpLznFLcOes-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-1" value="kubelet 1.22.5-tke.10&lt;br&gt;不支持双anno&lt;br&gt;没开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_IcN6_rNNhpLznFLcOes-2" target="_IcN6_rNNhpLznFLcOes-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-2" value="kubelet 1.22.5-tke.10&lt;br&gt;不支持双anno&lt;br&gt;开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-3" value="kubelet 1.22.5-tke.11&lt;br&gt;支持双anno&lt;br&gt;没开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-4" value="kubelet 1.22.5-tke.11&lt;br&gt;支持双anno&lt;br&gt;开启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcN6_rNNhpLznFLcOes-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_IcN6_rNNhpLznFLcOes-3" target="_IcN6_rNNhpLznFLcOes-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
